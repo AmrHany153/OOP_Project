@@ -1,0 +1,10 @@
+# name/ => for folders
+# name/name.txt => for files
+
+# Amr's Stuff
+.idea/
+cmake-build-debug/
+CMakeLists.txt
+
+# === add yours ===
+# === add yours ===
